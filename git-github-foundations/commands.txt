@@ -1,0 +1,16 @@
+git init
+Initialize a new Git repository in the current folder
+
+git add .
+Stage all changes (new/modified files) for the next commit
+
+
+git commit -m "message"
+Save a snapshot of staged changes with a message
+
+git remote -v
+Show remote repositories linked to your project
+
+git push -u origin main
+Upload commits to the 'main' branch on the remote (origin)
+
